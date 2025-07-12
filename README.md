@@ -1,4 +1,4 @@
-# myapp
+# QC Lens
 
 A new Flutter project.
 
